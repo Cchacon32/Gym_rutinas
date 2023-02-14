@@ -1,0 +1,24 @@
+[04-Mar-2021 10:36:18 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home3/johfrey1/rrhh.fibernetsa.co/conexion.php on line 2
+[04-Mar-2021 10:36:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_connect_errno() in /home3/johfrey1/rrhh.fibernetsa.co/conexion.php:5
+Stack trace:
+#0 /home3/johfrey1/rrhh.fibernetsa.co/index.php(3): include()
+#1 {main}
+  thrown in /home3/johfrey1/rrhh.fibernetsa.co/conexion.php on line 5
+[04-Mar-2021 10:36:21 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home3/johfrey1/rrhh.fibernetsa.co/conexion.php on line 2
+[04-Mar-2021 10:36:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_connect_errno() in /home3/johfrey1/rrhh.fibernetsa.co/conexion.php:5
+Stack trace:
+#0 /home3/johfrey1/rrhh.fibernetsa.co/index.php(3): include()
+#1 {main}
+  thrown in /home3/johfrey1/rrhh.fibernetsa.co/conexion.php on line 5
+[16-Mar-2021 11:41:02 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home3/johfrey1/rrhh.fibernetsa.co/conexion.php on line 2
+[16-Mar-2021 11:41:02 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home3/johfrey1/rrhh.fibernetsa.co/conexion.php on line 2
+[16-Mar-2021 11:41:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_connect_errno() in /home3/johfrey1/rrhh.fibernetsa.co/conexion.php:5
+Stack trace:
+#0 /home3/johfrey1/rrhh.fibernetsa.co/index.php(3): include()
+#1 {main}
+  thrown in /home3/johfrey1/rrhh.fibernetsa.co/conexion.php on line 5
+[16-Mar-2021 11:41:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_connect_errno() in /home3/johfrey1/rrhh.fibernetsa.co/conexion.php:5
+Stack trace:
+#0 /home3/johfrey1/rrhh.fibernetsa.co/index.php(3): include()
+#1 {main}
+  thrown in /home3/johfrey1/rrhh.fibernetsa.co/conexion.php on line 5
